@@ -1,6 +1,6 @@
 # Ex7 Priority Queue
 ## DATE : 26.04.2025
-## AIMv:
+## AIM:
 To formulate the C code to display the elements of the priority queue after insertion and deletion operation.
 
 ## Algorithm
